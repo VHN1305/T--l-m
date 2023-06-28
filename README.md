@@ -2,13 +2,13 @@
 
 (Chạy trên máy - sử dụng VSCode)
 Cài đặt các gói phần mềm:
-    - numpy
-    - pandas
-    - imblearn
-    - sklearn
-    - category_encoders
-    - seaborn
-    - matplotlib
+- numpy
+- pandas
+- imblearn
+- sklearn
+- category_encoders
+- seaborn
+- matplotlib
 
     bằng cách chạy lệnh: pip install + tên thư viện trên terminal
 
