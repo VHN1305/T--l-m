@@ -17,4 +17,4 @@ Sử dụng chương trình bằng VSCode:
     
     Dự đoán:
         - Chạy file EDA.ipynb để xem các biểu đồ được mô tả từ tập train
-        - Chạy file KNN.ipynb, NaiveBayesTesting.ipynb để xây dựng model, kết quả model
+        - Chạy file Real.ipynb để xây dựng model, kết quả model
